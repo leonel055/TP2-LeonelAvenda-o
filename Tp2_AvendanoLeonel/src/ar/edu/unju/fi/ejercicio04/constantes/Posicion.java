@@ -1,5 +1,6 @@
+
 package ar.edu.unju.fi.ejercicio04.constantes;
 
-public class Posicion {
-
+public enum Posicion {
+	DELANTERO, MEDIO, DEFENSA, ARQUERO
 }
